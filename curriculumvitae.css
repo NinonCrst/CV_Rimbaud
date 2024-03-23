@@ -61,7 +61,7 @@ header{
 }
 
 .infos{
-    background-image: url("aqua.jpg");
+    background-image: url(".Image/aqua.jpg");
     margin-left: 16px;
     margin-right: 16px;
     border-radius: 0.5em 0.5em;
@@ -184,7 +184,7 @@ body{
     height: fit-content;
     margin: 1%;
     padding-left: 1%;
-    background-image: url(.Image/aqua.jpg);
+    background-image: url(".Image/aqua.jpg");
 }
 
 #icon{
@@ -201,7 +201,7 @@ body{
 
 .about{
     display: flex;
-    background-image: url("lila.webp");
+    background-image: url(".Image/lila.webp");
     color: black;
     padding-left: 2%;
     width: fit-content;
